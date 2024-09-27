@@ -1,0 +1,6 @@
+{
+  "format": "DD-MMM-YYYY",
+  "template": "Zettalkasten/Templates/Journals - Template",
+  "folder": "Zettalkasten/Daily Notes",
+  "autorun": true
+}

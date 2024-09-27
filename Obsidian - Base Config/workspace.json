@@ -1,0 +1,244 @@
+{
+  "main": {
+    "id": "f3de5c070f36b86c",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf0c25c34d490ada",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec1aaa89ed9296ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettalkasten/Daily Notes/09-Jul-2024.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6936120734da1732",
+    "type": "split",
+    "children": [
+      {
+        "id": "741968468098bc73",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a9ef17f6c62ff1a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4bb0f190392b99ae",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 239
+  },
+  "right": {
+    "id": "4e80bfce8894fcc4",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2111b586c241806",
+        "type": "tabs",
+        "dimension": 30.527289546716002,
+        "children": [
+          {
+            "id": "ed806e777734bb81",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bc3686e93a204998",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "1b6d128218f02fb3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Zettalkasten/Daily Notes/09-Jul-2024.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "65259ceb0944187c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Zettalkasten/Daily Notes/09-Jul-2024.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "7c7da25c5aa56926",
+        "type": "tabs",
+        "dimension": 22.294172062904718,
+        "children": [
+          {
+            "id": "0c16c592be478198",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Zettalkasten/Daily Notes/09-Jul-2024.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "c92a6ae0980f8aa6",
+        "type": "tabs",
+        "dimension": 24.514338575393154,
+        "children": [
+          {
+            "id": "bbb6de52f8e2155d",
+            "type": "leaf",
+            "state": {
+              "type": "timer-view",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "8d1d104105f37c3f",
+        "type": "tabs",
+        "dimension": 22.664199814986123,
+        "children": [
+          {
+            "id": "b794f8fc09648383",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 295
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templater-obsidian:Templater": true,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "pomodoro-timer:Toggle timer panel": false
+    }
+  },
+  "active": "ec1aaa89ed9296ed",
+  "lastOpenFiles": [
+    "Zettalkasten/Pomodoro Summary.md",
+    "Zettalkasten/Daily Notes/09-Jul-2024.md",
+    "Zettalkasten/Templates/Journals - Template.md",
+    "Zettalkasten/Daily Notes/10-Jul-2024.md",
+    "Cheatsheets/VIM - Talk to Vim.md",
+    "Cheatsheets/VIM - Keys Menu.md",
+    "Configuration Files/Obsidian Pomodoro Alarm.mp3",
+    "ZZ Active Directory/LLMNR-NBT-NS Poisoning - Responder - Windows.md",
+    "Zettalkasten/Templates/Notes - Template.md",
+    "Zettalkasten/Templates/Chapter Template.md",
+    "ZZ Active Directory/Insidertrust.md",
+    "Daily/09-Jul-2024.md",
+    "Certification Courses/Certified Penetration Testing Specialist/2 - Network Enumeration with Nmap/Firewall Evasion.md",
+    "Daily",
+    "Certification Courses/Certified Penetration Testing Specialist/0 - CPTS Book/2 - Table of Contents.md",
+    "Certification Courses/Certified Penetration Testing Specialist/2 - Network Enumeration with Nmap/Nmap Scripting Engine.md",
+    "Certification Courses/Certified Penetration Testing Specialist/2 - Network Enumeration with Nmap/Network Enumeration with Nmap.md",
+    "Certification Courses/Certified Penetration Testing Specialist/2 - Network Enumeration with Nmap/Host Discovery.md",
+    "ZZ Active Directory/Hurricane Electric Internet Services.md",
+    "test.md",
+    "Certification Courses/Certified Penetration Testing Specialist/2 - Network Enumeration with Nmap/IDS and IPS Evasion.md",
+    "Certification Courses/Certified Penetration Testing Specialist/0 - CPTS Book/1 - Table of Tags.md",
+    "Certification Courses/Certified Penetration Testing Specialist/12 - 0 - Active Directory Enumeration and Attacks/Untitled.canvas",
+    "ZZ Active Directory/delete after use/Nmap - Firewall Evasion.md",
+    "Zettalkasten",
+    "Untitled Kanban.md",
+    "Zettalkasten/Daily Notes",
+    "ZZ Active Directory/Kerbrute.md",
+    "ZZ Active Directory/John The Ripper.md",
+    "ZZ Active Directory/LLMNR-NBT-NS Poisoning - Inveigh.md",
+    "ZZ Active Directory/LLMNR-NBT-NS Poisoning - Responder - Linux.md",
+    "ZZ Active Directory/Attachments/Pasted image 20240709133933.png",
+    "ZZ Active Directory/delete after use",
+    "Attachments",
+    "ZZ Active Directory/Attachments/ea-wireshark.webp",
+    "New Text Document.txt",
+    "ZZ Active Directory/Attachments/Pasted image 20240709120728.png",
+    "ZZ Active Directory/Attachments/Pasted image 20240709120625.png",
+    "ZZ Active Directory/Attachments",
+    "ZZ Active Directory",
+    "Coding & Scripting/Python-100-Days-of-Coding-Challenge/Day 041/Movie Ranking Project/solution.html",
+    "Coding & Scripting/Python-100-Days-of-Coding-Challenge/Day 041/Movie Ranking Project/goal.png",
+    "Coding & Scripting/Python-100-Days-of-Coding-Challenge/Day 041/movie/2.4 Movie Ranking Project/goal.png",
+    "Coding & Scripting/Python-100-Days-of-Coding-Challenge/Day 041/Movie Ranking Project/2.4 Movie Ranking Project/goal.png",
+    "Coding & Scripting/Python-100-Days-of-Coding-Challenge/Day 041/Void Elements/goal.png",
+    "CTF Challenges/PtH Exercises/Attachments/Pasted image 20240705115651.png",
+    "CTF Challenges/PtH Exercises/Attachments/Pasted image 20240705112740.png",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Examination/attachments/Untitled.canvas"
+  ]
+}

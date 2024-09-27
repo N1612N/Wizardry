@@ -1,0 +1,19 @@
+{
+  "workLen": 55,
+  "breakLen": 5,
+  "autostart": true,
+  "useStatusBarTimer": true,
+  "notificationSound": true,
+  "customSound": "Configuration Files/Obsidian Pomodoro Alarm.mp3",
+  "showTaskProgress": true,
+  "enableTaskTracking": true,
+  "logFile": "DAILY",
+  "logFocused": true,
+  "logPath": "",
+  "logLevel": "ALL",
+  "logTemplate": "",
+  "logFormat": "SIMPLE",
+  "useSystemNotification": true,
+  "taskFormat": "TASKS",
+  "lowFps": false
+}
